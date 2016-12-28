@@ -1,5 +1,4 @@
-{
-"lectures":[
+[
 	{
 		"number":"1",
 		"date":"10.10.16",
@@ -123,4 +122,3 @@
 		"link":"https://github.com/slbedu/front-end-web-2016/blob/master/lectures/13%20UX%20Patterns%2C%20Design%20Thinking%2C%20%D0%B0%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%20CSS%2C%20BootstrapUI/UX_And_Accessibility_2016%20-%20bg.pdf"
 	}
 ]
-}
